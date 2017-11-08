@@ -1,0 +1,9 @@
+{
+    "jobs": [
+    { "id":1, "name":"Pilot"},
+    { "id":2, "name":"Ksiadz"},
+    { "id":3, "name":"Sprzedawca"},
+    { "id":4, "name":"Animator"},
+    { "id":5, "name":"Opiekunka"}
+    ]
+}
